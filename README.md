@@ -4,6 +4,6 @@
 
 - Usage:
 ```
-git clone --depth=1 https://github.com/blankRiot96/pg-default new-project-name
+git clone https://github.com/blankRiot96/pg-default.git <new-project-name> 
 ```
-Clones the files without making it a git repository
+Then remove the `.git/` folder inside the directory 
